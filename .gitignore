@@ -1,0 +1,4 @@
+UnityRanking/Library/Artifacts/*
+*.log
+UnityRanking/Temp/*
+UnityRanking/Library/ShaderCache/*
