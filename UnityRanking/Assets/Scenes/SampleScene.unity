@@ -362,6 +362,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114521011719904078, guid: ce1a90c7bf72049dab8ca4a87a9f865e, type: 3}
+      propertyPath: usePush
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114521011719904078, guid: ce1a90c7bf72049dab8ca4a87a9f865e, type: 3}
       propertyPath: clientKey
       value: bed648b234c9d6035d0d44b5c72cf0395ec51548d8c8d874d416e3a4d5d7d9d1
       objectReference: {fileID: 0}

@@ -8,7 +8,7 @@ public class RankingView : MonoBehaviour
     void Start()
     {
         // Type == Number �̏ꍇ
-        naichilab.RankingLoader.Instance.SendScoreAndShowRanking(100);
+        naichilab.RankingLoader.Instance.SendScoreAndShowRanking(200);
 
         //// Type == Time �̏ꍇ
         //var millsec = 1;
